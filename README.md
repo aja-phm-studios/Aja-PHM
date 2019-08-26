@@ -1,7 +1,11 @@
 Aja-PHM
 =======
 
-Aja-PHM is a modeling platform for AmyClientele
+Aja-PHM is a modeling platform for AmyClientele that is built upon a Python/TcL base and is accessed using the Cloudbursting Stock S-Terminal. The application 
+executables are accessed using a dashboard and may consist of content or service based servelets which provided the user interface for such executables. 
+An example would be to install a 3D virtual attendant, the correct dashboard make and model must be previously installed to call the 3D content and its interface. 
+The dashboards are kitted with TcL and Python library files which redirect user input to the appropriate servelets being called.
+
 ==Introduction to Tweepcraft==
 
 Tweepcraft is a mesh editing application in development for posable human models (PHM). It is compatible with COLLADA based meshes and Python based scripts. 
